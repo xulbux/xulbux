@@ -23,53 +23,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <polygon fill="currentColor" points="17.85 4.51 81.36 5.61 97.77 32.32 37.78 34.1 17.85 4.51"/>
-  <polygon fill="currentColor" points="0 34.21 31.51 34.21 104.95 121.74 70.56 123.24 0 34.21"/>
-  <polygon fill="currentColor" points="73.77 126.86 108.24 125.34 201.86 246.87 175.65 256.01 73.77 126.86"/>
-  <polygon fill="currentColor" points="40.66 38.08 132.03 35.28 145.46 56.89 53.71 53.24 40.66 38.08"/>
-  <polygon fill="currentColor" points="55.93 57.11 97.93 58.72 199.42 203.93 178.62 209.57 109.93 121.52 55.93 57.11"/>
-  <polygon fill="currentColor" points="102.85 59 148.44 61.47 200.2 141.29 163.27 143.99 102.85 59"/>
-  <polygon fill="currentColor" points="136.79 35.28 175.87 36.57 252.32 139.86 227.64 172.5 204.96 140.96 136.79 35.28"/>
-  <polygon fill="currentColor" points="165.82 147.75 202.82 145.45 275.78 245.1 227.75 238.9 165.82 147.75"/>
-  <polygon fill="currentColor" points="180.38 212.8 201.32 207.33 222.33 239.23 206.17 244.99 180.38 212.8"/>
-  <polygon fill="currentColor" points="178.57 258.75 229.07 287.47 243.69 269.44 225.07 242.15 178.57 258.75"/>
-  <polygon fill="currentColor" points="307.69 357.24 256.34 366.76 231.21 290.32 246.27 272.58 307.69 357.24"/>
-  <polygon fill="currentColor" points="228.92 242.15 279.36 248.74 365.59 369.51 345.98 404.49 228.92 242.15"/>
-  <polygon fill="currentColor" points="257.12 370.08 309.57 360.67 387.7 472.33 335.58 471.67 257.12 370.08"/>
-  <polygon fill="currentColor" points="348.95 408.35 368.45 373.62 445.47 473.22 392.46 472 348.95 408.35"/>
-  <polygon fill="currentColor" points="284.45 249.01 334.69 259.85 415.4 362.43 369.52 367.3 284.45 249.01"/>
-  <polygon fill="currentColor" points="372.21 370.74 417.58 365.87 503.9 473.77 451.23 472.89 372.21 370.74"/>
-  <polygon fill="currentColor" points="477.17 477.73 463.61 497.67 310.08 495.54 280.36 474.66 477.17 477.73"/>
-  <polygon fill="currentColor" points="294.11 440.9 307.8 440.24 331.37 471.78 302.38 471.34 294.11 440.9"/>
-  <polygon fill="currentColor" points="247.18 459.78 295.09 457.55 299.95 471.34 233.99 470.34 247.18 459.78"/>
-  <polygon fill="currentColor" points="248.99 451.4 230.67 470.34 193.93 466.91 207.54 448.21 248.99 451.4"/>
-  <polygon fill="currentColor" points="207.34 441.06 190.38 467.19 136.82 466.02 154.86 444.56 207.34 441.06"/>
-  <polygon fill="currentColor" points="233.99 473.88 205.55 493.25 303.82 495.57 274.38 474.99 233.99 473.88"/>
-  <polygon fill="currentColor" points="133.48 469.41 115.11 491.11 198.94 493.16 227.9 473.44 192.49 470.45 133.48 469.41"/>
-  <polygon fill="currentColor" points="149.77 444.33 89.45 445.04 59.8 485.28 110.8 490.34 149.77 444.33"/>
-  <polygon fill="currentColor" points="101.63 493.47 90.36 509.25 7.22 507.48 26.16 485.94 101.63 493.47"/>
-  <polygon fill="currentColor" points="28.7 481.85 55.15 484.28 126.64 387.45 104.83 383.66 28.7 481.85"/>
-  <polygon fill="currentColor" points="9.66 473.73 29.26 474.21 101.19 381.59 91.4 365.3 9.66 473.73"/>
-  <polygon fill="currentColor" points="93.64 362.43 103.73 378.66 195.21 272.68 173.88 260.11 93.64 362.43"/>
-  <polygon fill="currentColor" points="128.75 384.13 207.54 279 198.91 274.46 107.88 380.34 128.75 384.13"/>
-  <polygon fill="currentColor" points="92.23 441.01 108.38 440.68 225.25 289.73 210.86 280.99 92.23 441.01"/>
-  <polygon fill="currentColor" points="113.47 440.79 129.63 440.57 234.65 312.42 227.58 292.55 113.47 440.79"/>
-  <polygon fill="currentColor" points="134.28 440.57 152.21 440.68 211.37 370.77 203.44 356.02 134.28 440.57"/>
-  <polygon fill="currentColor" points="156.53 441.06 197.8 438.14 252.46 370.77 214.06 372.49 156.53 441.06"/>
-  <polygon fill="currentColor" points="205.77 353.48 213.55 367.52 241.74 334.33 235.87 316.63 205.77 353.48"/>
-  <polygon fill="currentColor" points="216.84 368.86 252.46 367.52 243.06 337.65 216.84 368.86"/>
-  <polygon fill="currentColor" points="229.68 175.96 320.85 53.71 354.43 57.96 246.35 198.18 229.68 175.96"/>
-  <polygon fill="currentColor" points="322.43 50.62 411.71 62.63 429.65 35.56 333.16 36.28 322.43 50.62"/>
-  <polygon fill="currentColor" points="299.85 134.16 310.12 139.34 371.85 60.73 358.1 58.76 299.85 134.16"/>
-  <polygon fill="currentColor" points="312.78 140.89 326.73 148.86 396.34 64.53 375.31 61.43 312.78 140.89"/>
-  <polygon fill="currentColor" points="248.89 200.72 262.5 219.65 325.18 152.29 297.75 137.14 248.89 200.72"/>
-  <polygon fill="currentColor" points="328.51 154.15 347.56 167.26 280.65 244.66 265.05 222.41 328.51 154.15"/>
-  <polygon fill="currentColor" points="330.41 151.71 349.3 164.35 383.77 124.43 359.48 118.31 330.41 151.71"/>
-  <polygon fill="currentColor" points="361.54 114.45 391.8 76.37 409.95 91.75 386.27 120.86 361.54 114.45"/>
-  <polygon fill="currentColor" points="393.79 73.38 411.94 88.99 426.44 70.5 413.6 66.52 401.16 64.73 393.79 73.38"/>
-  <polygon fill="currentColor" points="416.53 63.04 450.99 74.06 479.94 35.09 435.07 35.76 416.53 63.04"/>
-  <polygon fill="currentColor" points="392.07 120.68 431.34 72.04 448.57 76.92 415.04 119.09 392.07 120.68"/>
-  <polygon fill="currentColor" points="285.67 245.36 387.7 125.28 411.5 123.96 309.43 250.29 285.67 245.36"/>
-  <polygon fill="currentColor" points="451.96 79.12 464.32 94.49 334.58 256.42 313.28 251.72 451.96 79.12"/>
-  <polygon fill="currentColor" points="512 35.09 466.49 92.05 454.44 76.37 484.98 35.2 512 35.09"/>
+  <polygon fill="currentColor" points="0 9.14 74.97 9.5 232.21 242.96 165.21 234.24 0 9.14"/>
+  <polyline fill="currentColor" points="121.81 34.34 167.99 34.1 241.31 126.05 212.15 163.19"/>
+  <polyline fill="currentColor" points="232.21 269.91 164.11 259.48 208.63 291.68"/>
+  <polygon fill="currentColor" points="284.44 349.71 241.31 353.98 225.24 309.96 245.29 292.97 284.44 349.71"/>
+  <polygon fill="currentColor" points="248.65 377.23 296.77 372.47 360.35 464.39 320.82 464.39 248.65 377.23"/>
+  <polygon fill="currentColor" points="260.18 264.81 336.92 275.89 499.3 464.39 398.23 464.39 260.18 264.81"/>
+  <polygon fill="currentColor" points="474.93 488.85 459.19 512 320.17 506.83 292.05 487.72 474.93 488.85"/>
+  <polygon fill="currentColor" points="149.21 447.64 125.93 489.88 281.82 464.39 267.66 448.07 149.21 447.64"/>
+  <polygon fill="currentColor" points="0 497.67 80.67 512 194.7 313.57 148.42 279.6 0 497.67"/>
+  <polygon fill="currentColor" points="163.65 422.32 201.29 422.32 220.65 381.47 208.21 341.5 163.65 422.32"/>
+  <polygon fill="currentColor" points="228.3 187.13 256.14 227.17 421.78 34.1 341.22 34.1 228.3 187.13"/>
+  <polygon fill="currentColor" points="512 35.09 333.01 249.01 278.56 241.34 456.1 34.4 512 35.09"/>
 </svg>
