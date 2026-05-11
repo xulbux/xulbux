@@ -31,6 +31,12 @@ Set-PSReadLineOption -PredictionViewStyle InlineView
 # KEYBINDINGS FOR TAB COMPLETION
 Set-PSReadLineKeyHandler -Key Tab -Function MenuComplete
 
+# ACCEPT NEXT WORD OF INLINE SUGGESTION
+Set-PSReadLineKeyHandler -Key Shift+RightArrow -Function AcceptNextSuggestionWord
+
+# PASTE AS SINGLE UNDO UNIT
+Set-PSReadLineKeyHandler -Key Ctrl+V -Function Paste
+
 
 ######################################## HISTORY #########################################
 

@@ -91,7 +91,6 @@
     { "id": "Terminal.OpenNewTab", "keys": "ctrl+t" },
     { "id": "Terminal.OpenNewTabDropdown", "keys": "ctrl+shift+t" },
     { "id": "Terminal.OpenSettingsFile", "keys": "ctrl+shift+comma" },
-    { "id": "Terminal.PasteFromClipboard", "keys": "ctrl+v" },
     { "id": "Terminal.ScrollToBottom", "keys": "ctrl+down" },
     { "id": "Terminal.ScrollToTop", "keys": "ctrl+up" },
     { "id": "User.adjustFontSize.decrease", "keys": "numpad_minus" },
@@ -164,6 +163,7 @@
     { "id": null, "keys": "ctrl+shift+up" },
     { "id": null, "keys": "ctrl+shift+v" },
     { "id": null, "keys": "ctrl+shift+w" },
+    { "id": null, "keys": "ctrl+v" },  // LET THE SHELL HANDLE PASTING
     { "id": null, "keys": "enter" },
     { "id": null, "keys": "shift+insert" },
     { "id": null, "keys": "win+sc(41)" }
