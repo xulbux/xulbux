@@ -5,10 +5,8 @@ command_timeout = 2500
 format = """\
 [╭─](bright-black) \
 $username$hostname$os\
-$directory\
-$git_branch$git_status\
-$kubernetes$python$nodejs\
-$all\
+$directory$git_branch\
+$cmd_duration
 $character"""
 
 [character]
@@ -58,44 +56,5 @@ symbol = ' '
 style = 'bold white'
 format = 'via [$symbol$branch]($style) '
 
-[git_status]
-conflicted = '🏳'
-up_to_date = ''
-untracked = '[ ](bright-blue)'
-stashed = '[ ](cyan)'
-modified = '[ ](purple)'
-renamed = '[󰇉 ](yellow)'
-deleted = '[ ](bright-red)'
-staged = '[++\($count\)](cyan)'
-ahead = '[⇡${count}](bright-blue)'
-behind = '[⇣${count}](red)'
-diverged = '󰃻[⇡${ahead_count}](bright-blue)[⇣${behind_count}](red)'
-style = 'bold white'
-format = '[$all_status$ahead_behind]($style) '
-
-
-####################################################################################################
-
-[docker_context]
-disabled = true
-
-[helm]
-disabled = true
-
-[kubernetes]
-disabled = true
-
-[nodejs]
-disabled = false
-
-[python]
-disabled = false
-
-[ruby]
-disabled = false
-
-[terraform]
-disabled = true
-
-[vagrant]
-disabled = true
+[cmd_duration]
+min_time = 0
