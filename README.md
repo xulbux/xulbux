@@ -6,11 +6,11 @@
 <br>
 <br>
 
-[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7075FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
+[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=4c71f2&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
 
 </div>
 
-# < **About Me** />[<img src="assets/img/fa/info.svg" width="40" align="left">](#-about-me-)
+# < **About Me** /><a href="#-about-me-"><img src="assets/img/fa/circle-info.svg" width="40" align="left"></a>
 
 Love in coding and technical thinking – good eye for colors and<br>
 modern design – hobby photographer and short film creator<br>
@@ -25,31 +25,31 @@ modern design – hobby photographer and short film creator<br>
 
 </div>
 
-# < **Current Focus** />[<img src="assets/img/fa/crosshair.svg" width="40" align="left">](#-current-focus-)
+# < **Current Focus** /><a href="#-current-focus-"><img src="assets/img/fa/crosshairs-simple.svg" width="40" align="left"></a>
 
--   🐍 Mastering the art of **[Python](https://github.com/xulbux/python)**.
--   🚀 Trying to learn more about `C`, `C#` and `C++`.
--   📦 Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   📟 Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
--   🧩 Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time.
--   🌐 Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
--   🎨 Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
--   🎥 Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally.
+-   <a href="#-current-focus-"><img src="assets/img/fa/snake.svg" width="16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
+-   <a href="#-current-focus-"><img src="assets/img/fa/rocket-launch.svg" width="16"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
+-   <a href="#-current-focus-"><img src="assets/img/fa/box-isometric-tape.svg" width="16"></a>&#8194;Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
+-   <a href="#-current-focus-"><img src="assets/img/fa/square-terminal.svg" width="16"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
+-   <a href="#-current-focus-"><img src="assets/img/fa/puzzle-piece.svg" width="16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time.
+-   <a href="#-current-focus-"><img src="assets/img/fa/browser.svg" width="16"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+-   <a href="#-current-focus-"><img src="assets/img/fa/swatchbook.svg" width="16"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
+-   <a href="#-current-focus-"><img src="assets/img/fa/camera-rotate.svg" width="16"></a>&#8194;Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally.
 
-### 🔥 **I Definitely Recommend Checking Out**
+### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://img.shields.io/badge/Python_Library_XulbuX-B272FC?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/Visual_Studio_Code-B272FC?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-B272FC?style=for-the-badge)](https://github.com/xulbux/python)
+[![python-lib-xulbux](https://img.shields.io/badge/Python_Library_XulbuX-efefef?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/Visual_Studio_Code-dddddd?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-cbcbcb?style=for-the-badge)](https://github.com/xulbux/python)
 
 <br>
 
-# < **Let's Connect!** />[<img src="assets/img/fa/handshake.svg" width="40" align="left">](#-lets-connect-)
+# < **Let's Connect!** /><a href="#-lets-connect-"><img src="assets/img/fa/handshake.svg" width="40" align="left"></a>
 
 Feel free to explore my repositories and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
 
 <br>
 
-# < **Tech Stack** />[<img src="assets/img/fa/microchip.svg" width="40" align="left">](#-tech-stack-)
+# < **Tech Stack** /><a href="#-tech-stack-"><img src="assets/img/fa/microchip.svg" width="40" align="left"></a>
 
 <div align="center"><br>
 
@@ -67,14 +67,14 @@ for questions or just a friendly chat about coding and designing!
 
 <br>
 
-# < **GitHub** />[<img src="assets/img/fa/pie-chart.svg" width="40" align="left">](#-github-)
+# < **GitHub** /><a href="#-github-"><img src="assets/img/fa/chart-pie.svg" width="40" align="left"></a>
 
-### 📈 **Stats**
+### **Stats**
 
 [![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=buefy&hide_border=true)](#)<br>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
 
-### 🏆 **Trophies**
+### **Trophies**
 
 [![](https://github-profile-trophy.vercel.app/?username=XulbuX&no-frame=true&no-bg=false&margin-w=4)](#)
 
