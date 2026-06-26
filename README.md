@@ -38,7 +38,7 @@ modern design – hobby photographer and short film creator<br>
 
 ### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://img.shields.io/badge/Python_Library_XulbuX-efefef?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/Visual_Studio_Code-dddddd?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-cbcbcb?style=for-the-badge)](https://github.com/xulbux/python)
+[![python-lib-xulbux](https://img.shields.io/badge/python_library_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/vs_code-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
 
 <br>
 
@@ -71,12 +71,12 @@ for questions or just a friendly chat about coding and designing!
 
 ### **Stats**
 
-[![](https://github-readme-stats.vercel.app/api?username=XulbuX&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=XulbuX&theme=buefy&hide_border=true)](#)<br>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=XulbuX&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=xulbux&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=xulbux&theme=buefy&hide_border=true)](#)<br>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=xulbux&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
 
 ### **Trophies**
 
-[![](https://github-profile-trophy.vercel.app/?username=XulbuX&no-frame=true&no-bg=false&margin-w=4)](#)
+[![](https://github-profile-trophy.vercel.app/?username=xulbux&no-frame=true&no-bg=false&margin-w=4)](#)
 
 
 <br>
