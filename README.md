@@ -38,7 +38,7 @@ modern design – hobby photographer and short film creator<br>
 
 ### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://img.shields.io/badge/python_library_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/vs_code-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
+[![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/vs_code-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
 
 <br>
 
