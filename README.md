@@ -21,7 +21,7 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center">
 
-[![My DEV Quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)](#)
+[![XulbuX's Quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)](#)
 
 </div>
 
@@ -29,12 +29,12 @@ modern design – hobby photographer and short film creator<br>
 
 -   <a href="#-current-focus-"><img src="assets/img/fa/snake.svg" width="16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
 -   <a href="#-current-focus-"><img src="assets/img/fa/rocket-launch.svg" width="16"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
--   <a href="#-current-focus-"><img src="assets/img/fa/box-isometric-tape.svg" width="16"></a>&#8194;Working on constant updates and improvements of my own **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
+-   <a href="#-current-focus-"><img src="assets/img/fa/box-isometric-tape.svg" width="16"></a>&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
 -   <a href="#-current-focus-"><img src="assets/img/fa/square-terminal.svg" width="16"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
--   <a href="#-current-focus-"><img src="assets/img/fa/puzzle-piece.svg" width="16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)** which I personally can't live without anymore and use all the time.
+-   <a href="#-current-focus-"><img src="assets/img/fa/puzzle-piece.svg" width="16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
 -   <a href="#-current-focus-"><img src="assets/img/fa/browser.svg" width="16"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
 -   <a href="#-current-focus-"><img src="assets/img/fa/swatchbook.svg" width="16"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
--   <a href="#-current-focus-"><img src="assets/img/fa/camera-rotate.svg" width="16"></a>&#8194;Creating **[stunning photos](https://www.patreon.com/cw/xulbux/shop)** and short films and editing them professionally.
+-   <a href="#-current-focus-"><img src="assets/img/fa/camera-rotate.svg" width="16"></a>&#8194;Creating stunning photos and short films and editing them professionally.
 
 ### **I Definitely Recommend Checking Out**
 
@@ -44,7 +44,7 @@ modern design – hobby photographer and short film creator<br>
 
 # < **Let's Connect!** /><a href="#-lets-connect-"><img src="assets/img/fa/handshake.svg" width="40" align="left"></a>
 
-Feel free to explore my repositories and don't hesitate to reach out<br>
+You're welcome to explore my repositories, and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
 
 <br>
