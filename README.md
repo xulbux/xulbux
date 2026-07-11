@@ -25,6 +25,9 @@ modern design – hobby photographer and short film creator<br>
 
 </div>
 
+<br>
+<br>
+
 # < **Current Focus** /><a href="#-current-focus-"><img src="assets/img/fa/crosshairs-simple.svg" width="40" align="left"></a>
 
 -   <a href="#-current-focus-"><img src="assets/img/fa/snake.svg" width="16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
@@ -40,6 +43,7 @@ modern design – hobby photographer and short film creator<br>
 
 [![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://img.shields.io/badge/color_tracr-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
 
+<br>
 <br>
 
 # < **Tech Stack** /><a href="#-tech-stack-"><img src="assets/img/fa/microchip.svg" width="40" align="left"></a>
@@ -68,6 +72,9 @@ modern design – hobby photographer and short film creator<br>
 You're welcome to explore my repositories, and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
 
+<br>
+<br>
+<br>
 <br>
 
 ------------------------------------------------------------------
