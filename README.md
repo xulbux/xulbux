@@ -38,14 +38,7 @@ modern design – hobby photographer and short film creator<br>
 
 ### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode](https://img.shields.io/badge/vs_code-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
-
-<br>
-
-# < **Let's Connect!** /><a href="#-lets-connect-"><img src="assets/img/fa/handshake.svg" width="40" align="left"></a>
-
-You're welcome to explore my repositories, and don't hesitate to reach out<br>
-for questions or just a friendly chat about coding and designing!
+[![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://img.shields.io/badge/color_tracr-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
 
 <br>
 
@@ -66,22 +59,15 @@ for questions or just a friendly chat about coding and designing!
 </div>
 
 <br>
-
-# < **GitHub** /><a href="#-github-"><img src="assets/img/fa/chart-pie.svg" width="40" align="left"></a>
-
-### **Stats**
-
-[![](https://github-readme-stats.vercel.app/api?username=xulbux&theme=vue&hide_border=true&include_all_commits=true&count_private=true)](#) [![](https://nirzak-streak-stats.vercel.app/?user=xulbux&theme=buefy&hide_border=true)](#)<br>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=xulbux&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](#)
-
-### **Trophies**
-
-[![](https://github-profile-trophy.vercel.app/?username=xulbux&no-frame=true&no-bg=false&margin-w=4)](#)
-
-
 <br>
 <br>
 <br>
+
+# < **Let's Connect!** /><a href="#-lets-connect-"><img src="assets/img/fa/handshake.svg" width="40" align="left"></a>
+
+You're welcome to explore my repositories, and don't hesitate to reach out<br>
+for questions or just a friendly chat about coding and designing!
+
 <br>
 
 ------------------------------------------------------------------
