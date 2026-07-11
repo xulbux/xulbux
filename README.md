@@ -44,7 +44,6 @@ modern design – hobby photographer and short film creator<br>
 [![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://img.shields.io/badge/color_tracr-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
 
 <br>
-<br>
 
 # < **Tech Stack** /><a href="#-tech-stack-"><img src="assets/img/fa/microchip.svg" width="40" align="left"></a>
 
@@ -62,8 +61,6 @@ modern design – hobby photographer and short film creator<br>
 
 </div>
 
-<br>
-<br>
 <br>
 <br>
 
