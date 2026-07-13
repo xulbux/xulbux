@@ -10,6 +10,9 @@
 
 </div>
 
+<br>
+<br>
+
 # < **About Me** /><a href="#-about-me-"><img src="assets/img/fa/circle-info.svg" width="40" align="left"></a>
 
 Love in coding and technical thinking – good eye for colors and<br>
