@@ -5,7 +5,7 @@ command_timeout = 2500
 format = """\
 [╭─](bright-black) \
 $username$hostname$os\
-$directory$git_branch\
+$directory$git_branch$python\
 $cmd_duration
 $character"""
 
@@ -55,6 +55,14 @@ truncation_symbol = '…/'
 symbol = ' '
 style = 'bold white'
 format = 'via [$symbol$branch]($style) '
+
+[python]
+symbol = ' '
+style = 'bold yellow'
+format = 'in [$symbol$virtualenv]($style) '
+detect_extensions = []
+detect_files = []
+detect_folders = []
 
 [cmd_duration]
 min_time = 0
