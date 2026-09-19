@@ -86,7 +86,7 @@ for questions or just a friendly chat about coding and designing!
 
 [![Profile Views](https://u8views.com/api/v1/github/profiles/142539516/views/day-week-month-total-count.svg)](#)
 
-✨ From **[XulbuX](https://github.com/xulbux)** ✨<br>
+✨ From **[XulbuX](https://xulbux.com)** ✨<br>
 **ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧**
 
 <br>
