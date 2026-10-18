@@ -33,14 +33,14 @@ modern design – hobby photographer and short film creator<br>
 
 # < **Current Focus** /><a href="#-current-focus-"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>
 
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/snake?size=16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/rocket-launch?size=16"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/box-isometric-tape?size=16"></a>&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/square-terminal?size=16"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/puzzle-piece?size=16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/browser?size=16"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/swatchbook?size=16"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
--   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/camera-rotate?size=16"></a>&#8194;Creating stunning photos and short films and editing them professionally.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/snake?size=20"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/rocket-launch?size=20"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/box-isometric-tape?size=20"></a>&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/square-terminal?size=20"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/puzzle-piece?size=20"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/browser?size=20"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/swatchbook?size=20"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/camera-rotate?size=20"></a>&#8194;Creating stunning photos and short films and editing them professionally.
 
 ### **I Definitely Recommend Checking Out**
 
