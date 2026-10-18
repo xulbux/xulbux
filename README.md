@@ -13,7 +13,7 @@
 <br>
 <br>
 
-# < **About Me** /><a href="#-about-me-"><img src="assets/img/fa/circle-info.svg" width="40" align="left"></a>
+# < **About Me** /><a href="#-about-me-"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>
 
 Love in coding and technical thinking – good eye for colors and<br>
 modern design – hobby photographer and short film creator<br>
@@ -24,50 +24,42 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center">
 
-[![XulbuX's Quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&author=XulbuX&quote=Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos%21%E2%80%89)](#)
+[![XulbuX's Quote](https://svg.xul.is/quote/XulbuX/Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!?layout=vertical&size=lg)](#)
 
 </div>
 
 <br>
 <br>
 
-# < **Current Focus** /><a href="#-current-focus-"><img src="assets/img/fa/crosshairs-simple.svg" width="40" align="left"></a>
+# < **Current Focus** /><a href="#-current-focus-"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>
 
--   <a href="#-current-focus-"><img src="assets/img/fa/snake.svg" width="16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
--   <a href="#-current-focus-"><img src="assets/img/fa/rocket-launch.svg" width="16"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
--   <a href="#-current-focus-"><img src="assets/img/fa/box-isometric-tape.svg" width="16"></a>&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   <a href="#-current-focus-"><img src="assets/img/fa/square-terminal.svg" width="16"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
--   <a href="#-current-focus-"><img src="assets/img/fa/puzzle-piece.svg" width="16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
--   <a href="#-current-focus-"><img src="assets/img/fa/browser.svg" width="16"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
--   <a href="#-current-focus-"><img src="assets/img/fa/swatchbook.svg" width="16"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
--   <a href="#-current-focus-"><img src="assets/img/fa/camera-rotate.svg" width="16"></a>&#8194;Creating stunning photos and short films and editing them professionally.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/snake?size=16"></a>&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/rocket-launch?size=16"></a>&#8194;Trying to learn more about `C`, `C#` and `C++`.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/box-isometric-tape?size=16"></a>&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/square-terminal?size=16"></a>&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/puzzle-piece?size=16"></a>&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/browser?size=16"></a>&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/swatchbook?size=16"></a>&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
+-   <a href="#-current-focus-"><img src="https://svg.xul.is/icon/camera-rotate?size=16"></a>&#8194;Creating stunning photos and short films and editing them professionally.
 
 ### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://img.shields.io/badge/python_lib_xulbux-edf2ff?style=for-the-badge)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://img.shields.io/badge/color_tracr-dbe5ff?style=for-the-badge)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://img.shields.io/badge/Python-ccdaff?style=for-the-badge)](https://github.com/xulbux/python)
+[![python-lib-xulbux](https://svg.xul.is/badge/python_lib_xulbux?icon=box-isometric-tape&variant=b1)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://svg.xul.is/badge/color_tracr?icon=puzzle-piece&variant=b2)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://svg.xul.is/badge/Python?icon=snake&variant=b3)](https://github.com/xulbux/python)
 
 <br>
 
-# < **Tech Stack** /><a href="#-tech-stack-"><img src="assets/img/fa/microchip.svg" width="40" align="left"></a>
+# < **Tech Stack** /><a href="#-tech-stack-"><img src="https://svg.xul.is/icon/microchip?size=40" align="left"></a>
 
 <div align="center"><br>
 
-[![Languages](https://skillicons.dev/icons?perline=8&i=c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md)](#)<br><br>
-
-[![Frameworks & Libraries](https://skillicons.dev/icons?perline=6&i=dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress)](#)<br><br>
-
-[![Tools & Platforms](https://skillicons.dev/icons?perline=6&i=git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino)](#)&#8195;&#8195;&#8194;&#8202;
-[![Cloud & Infrastructure](https://skillicons.dev/icons?perline=4&i=aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite)](#)<br><br>
-
-[![Design & Creative](https://skillicons.dev/icons?perline=3&i=figma,ai,blender,ps,pr,ae)](#)&#8195;&#8195;&#8194;&#8202;
-[![Other](https://skillicons.dev/icons?perline=3&i=obsidian,notion,codepen,gtk,latex,regex)](#)
+[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3)](#)
 
 </div>
 
 <br>
 <br>
 
-# < **Let's Connect!** /><a href="#-lets-connect-"><img src="assets/img/fa/handshake.svg" width="40" align="left"></a>
+# < **Let's Connect!** /><a href="#-lets-connect-"><img src="https://svg.xul.is/icon/handshake?size=40" align="left"></a>
 
 You're welcome to explore my repositories, and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
