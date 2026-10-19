@@ -6,7 +6,7 @@
 <br>
 <br>
 
-[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=4c71f2&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
+[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7D87FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
 
 </div>
 
@@ -24,7 +24,7 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center">
 
-[![XulbuX's Quote](https://svg.xul.is/quote/XulbuX/Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!?layout=vertical&size=lg)](#)
+[![XulbuX's Quote](https://svg.xul.is/quote/XulbuX/Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!?layout=vertical&size=lg)](https://svg.xul.is/docs/quotes)
 
 </div>
 
@@ -44,7 +44,7 @@ modern design – hobby photographer and short film creator<br>
 
 ### **I Definitely Recommend Checking Out**
 
-[![python-lib-xulbux](https://svg.xul.is/badge/python_lib_xulbux?icon=box-isometric-tape&variant=b1)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://svg.xul.is/badge/color_tracr?icon=puzzle-piece&variant=b2)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://svg.xul.is/badge/Python?icon=snake&variant=b3)](https://github.com/xulbux/python)
+[![python-lib-xulbux](https://svg.xul.is/button/Python+lib+XulbuX?icon=box-isometric-tape)](https://github.com/xulbux/python-lib-xulbux) [![vscode-ext-color-tracr](https://svg.xul.is/button/Color+Tracr?icon=puzzle-piece&variant=2)](https://github.com/xulbux/vscode-ext-color-tracr) [![python](https://svg.xul.is/button/Python?icon=snake&variant=3)](https://github.com/xulbux/python)
 
 <br>
 
@@ -52,9 +52,19 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center"><br>
 
-[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3)](#)
+[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3?variant=3)](https://svg.xul.is/docs/stack)
 
 </div>
+
+<br>
+<br>
+
+# < **Like These Badges & Icons?** /><a href="#-like-these-badges--icons-"><img src="https://svg.xul.is/icon/sparkles?size=40" align="left"></a>
+
+Every badge, button, icon, quote card, and tech stack grid on this profile is generated live by **[`svg.xul.is`](https://svg.xul.is)**.<br>
+It's completely free and open to everyone, so feel free to use it in your own READMEs and projects!
+
+[![Explore svg.xul.is](https://svg.xul.is/button/Explore+svg.xul.is?size=lg&icon=sparkles,arrow-right&anim=sheen,none,nudge)](https://svg.xul.is)
 
 <br>
 <br>
@@ -76,9 +86,7 @@ for questions or just a friendly chat about coding and designing!
 
 <div align="center">
 
-[![Profile Views](https://u8views.com/api/v1/github/profiles/142539516/views/day-week-month-total-count.svg)](#)
-
-✨ From **[XulbuX](https://xulbux.com)** ✨<br>
+From **[XulbuX](https://xulbux.com)**<br>
 **ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧**
 
 <br>
