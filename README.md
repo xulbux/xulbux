@@ -24,7 +24,7 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center">
 
-[![XulbuX's Quote](https://svg.xul.is/quote/XulbuX/Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!?layout=vertical&size=lg)](https://svg.xul.is/docs/quotes)
+[![XulbuX's Quote](https://svg.xul.is/quote/XulbuX/Who+says+programmers+are+boring%3F+I+bring+the+humor+to+the+office+while+my+code+brings+the+chaos!?layout=vertical&size=lg)](#-about-me-)
 
 </div>
 
@@ -52,7 +52,7 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center"><br>
 
-[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3?variant=3)](https://svg.xul.is/docs/stack)
+[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3?variant=3)](#-tech-stack-)
 
 </div>
 
