@@ -64,7 +64,7 @@ modern design – hobby photographer and short film creator<br>
 Every badge, button, icon, quote card, and tech stack grid on this profile is generated live by **[`svg.xul.is`](https://svg.xul.is)**.<br>
 It's completely free and open to everyone, so feel free to use it in your own READMEs and projects!
 
-[![Explore svg.xul.is](https://svg.xul.is/button/Explore+svg.xul.is?size=lg&icon=sparkles,arrow-right&anim=sheen,none,nudge)](https://svg.xul.is)
+[![Explore svg.xul.is](https://svg.xul.is/button/Explore+svg.xul.is?size=lg&icon=none,arrow-right&anim=sheen,none,nudge)](https://svg.xul.is)
 
 <br>
 <br>
