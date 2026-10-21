@@ -52,7 +52,7 @@ modern design – hobby photographer and short film creator<br>
 
 <div align="center"><br>
 
-[![Tech Stack](https://svg.xul.is/stack/c,cpp,cs,rust,java,py,js,ts,php,lua,bash,powershell,html,css,sass,md:8;dotnet,vue,pinia,laravel,symfony,nodejs,threejs,tauri,unity,unreal,tailwind,wordpress:6;git,github,githubactions,vscode,visualstudio,npm,vite,cmake,linux,windows,raspberrypi,arduino:6|aws,azure,cloudflare,firebase,netlify,terraform,mysql,sqlite:4;figma,ai,blender,ps,pr,ae:3|obsidian,notion,codepen,gtk,latex,regex:3?variant=3)](#-tech-stack-)
+[![Tech Stack](https://svg.xul.is/stack/cpp,cs,py,js,ts,java,php,lua,html,css,webassembly,bash,zsh,powershell:7|react,vue,inertia,tailwind,unocss,sass,threejs,webgl:4;nodejs,dotnet,laravel,symfony|mysql,mariadb,clickhouse|cloudflare,githubactions,nginx;claude,googlegemini,ollama,numpy,nvidia:3|git,github,vite,pnpm,npm,pypi,composer,vitest,pytest,oxc,eslint,regex:6;vscode,visualstudio,starship|figma,inkscape,gimp,davinciresolve,pr;archlinux,windows,android,markdown,latex,vitepress,jira,confluence?variant=3&perline=12)](#-tech-stack-)
 
 </div>
 
