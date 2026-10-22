@@ -16,7 +16,9 @@
 <br>
 <br>
 
-# < **About Me** /><a href="#-about-me-"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>
+<span id="about-me"></span>
+
+# < **About Me** /><a href="#about-me"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>
 
 Love in coding and technical thinking – good eye for colors and<br>
 modern design – hobby photographer and short film creator<br>
@@ -34,7 +36,9 @@ modern design – hobby photographer and short film creator<br>
 <br>
 <br>
 
-# < **Current Focus** /><a href="#-current-focus-"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>
+<span id="current-focus"></span>
+
+# < **Current Focus** /><a href="#current-focus"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>
 
 -   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
 -   [![](https://svg.xul.is/icon/rocket-launch?size=20)](#svg-api)&#8194;Trying to learn more about `C`, `C#` and `C++`.
@@ -51,7 +55,9 @@ modern design – hobby photographer and short film creator<br>
 
 <br>
 
-# < **Tech Stack** /><a href="#-tech-stack-"><img src="https://svg.xul.is/icon/microchip?size=40" align="left"></a>
+<span id="tech-stack"></span>
+
+# < **Tech Stack** /><a href="#tech-stack"><img src="https://svg.xul.is/icon/microchip?size=40" align="left"></a>
 
 <div align="center"><br>
 
@@ -74,7 +80,9 @@ It's completely free and open to everyone, so feel free to use it in your own RE
 <br>
 <br>
 
-# < **Let's Connect!** /><a href="#-lets-connect-"><img src="https://svg.xul.is/icon/handshake?size=40" align="left"></a>
+<span id="lets-connect"></span>
+
+# < **Let's Connect!** /><a href="#lets-connect"><img src="https://svg.xul.is/icon/handshake?size=40" align="left"></a>
 
 You're welcome to explore my repositories, and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
