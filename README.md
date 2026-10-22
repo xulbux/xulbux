@@ -15,7 +15,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # < **About Me** /><a href="#-about-me-"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>
 
