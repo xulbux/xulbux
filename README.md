@@ -5,11 +5,15 @@
 
 <br>
 <br>
+<br>
+<br>
 
-[![Passions](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=7D87FF&center=true&vCenter=true&random=true&width=1000&lines=Passionate+Coder;UX+Design+Aficionado;Creative+Coding;Digital+Experience+Innovating;Design-Driven+Development;Tech+Enthusiast;Code+Artistry;Interactive+Experience+Designing;Full-Stack+Developer;Gaming+and+Programming+Fusion;User-Centric+Design+Advocacy;Innovative+Problem+Solving;Open-Source+Software;Python+Library+Developer;VSCode+Extension+Creator;Command+Line+Tools+Builder;Professional+Photographer;Short+Film+Creator;Web+Application+Developer;Laravel+and+Vue.js+Enthusiast;Typography+and+Layout+Expert;Multi-Language+Programmer;C/C%23/C%2B%2B+Learner)](#)
+[![Passions](https://svg.xul.is/typing/Full-Stack+Developer;Design-Driven+Development;Color,+Typography+%26+Layout+Obsessed;User-Centric+UX+%26+Interface+Craft;CLI+%26+Developer+Tooling+Builder;Editor+Extension+%26+Library+Author;Performance+%26+Optimization+Freak;Creative+Coding+%26+Interactive+Web;Open-Source+Creator;Innovative+Problem+Solver;Hobby+Photographer;Short+Film+Creator+%26+Video+Editor?layout=prompt&size=lg&erase=select&typo=true&icon=sparkles&hint=icon:corner-down-left)](#)
 
 </div>
 
+<br>
+<br>
 <br>
 <br>
 
