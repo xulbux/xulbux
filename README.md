@@ -16,13 +16,11 @@
 <br>
 <br>
 
-<span id="about-me"></span>
+# <a id="about-me" href="#about-me"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>< **About Me** />
 
-# < **About Me** /><a href="#about-me"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>
-
-Love in coding and technical thinking – good eye for colors and<br>
-modern design – hobby photographer and short film creator<br>
-**—⠀always creating more cool stuff for you!**
+Love in coding and technical thinking; good eye for colors and<br>
+modern design; hobby photographer and short film creator<br>
+**—&numsp;always creating more cool stuff for you!**
 
 <br>
 <br>
@@ -36,18 +34,16 @@ modern design – hobby photographer and short film creator<br>
 <br>
 <br>
 
-<span id="current-focus"></span>
+# <a id="current-focus" href="#current-focus"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>< **Current Focus** />
 
-# < **Current Focus** /><a href="#current-focus"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>
-
--   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&#8194;Mastering the art of **[Python](https://github.com/xulbux/python)**.
--   [![](https://svg.xul.is/icon/rocket-launch?size=20)](#svg-api)&#8194;Trying to learn more about `C`, `C#` and `C++`.
--   [![](https://svg.xul.is/icon/box-isometric-tape?size=20)](#svg-api)&#8194;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&#8194;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
--   [![](https://svg.xul.is/icon/puzzle-piece?size=20)](#svg-api)&#8194;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
--   [![](https://svg.xul.is/icon/browser?size=20)](#svg-api)&#8194;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
--   [![](https://svg.xul.is/icon/swatchbook?size=20)](#svg-api)&#8194;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
--   [![](https://svg.xul.is/icon/camera-rotate?size=20)](#svg-api)&#8194;Creating stunning photos and short films and editing them professionally.
+-   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&numsp;Mastering the art of **[Python](https://github.com/xulbux/python)**.
+-   [![](https://svg.xul.is/icon/rocket-launch?size=20)](#svg-api)&numsp;Trying to learn more about `C`, `C#` and `C++`.
+-   [![](https://svg.xul.is/icon/box-isometric-tape?size=20)](#svg-api)&numsp;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
+-   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&numsp;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
+-   [![](https://svg.xul.is/icon/puzzle-piece?size=20)](#svg-api)&numsp;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
+-   [![](https://svg.xul.is/icon/browser?size=20)](#svg-api)&numsp;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+-   [![](https://svg.xul.is/icon/swatchbook?size=20)](#svg-api)&numsp;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
+-   [![](https://svg.xul.is/icon/camera-rotate?size=20)](#svg-api)&numsp;Creating stunning photos and short films and editing them professionally.
 
 ### **I Definitely Recommend Checking Out**
 
@@ -55,9 +51,7 @@ modern design – hobby photographer and short film creator<br>
 
 <br>
 
-<span id="tech-stack"></span>
-
-# < **Tech Stack** /><a href="#tech-stack"><img src="https://svg.xul.is/icon/microchip?size=40" align="left"></a>
+# <a id="tech-stack" href="#tech-stack"><img src="https://svg.xul.is/icon/microchip?size=40" align="left"></a>< **Tech Stack** />
 
 <div align="center"><br>
 
@@ -68,9 +62,7 @@ modern design – hobby photographer and short film creator<br>
 <br>
 <br>
 
-<span id="svg-api"></span>
-
-# < **Like These Badges & Icons?** /><a href="#svg-api"><img src="https://svg.xul.is/icon/sparkles?size=40" align="left"></a>
+# <a id="svg-api" href="#svg-api"><img src="https://svg.xul.is/icon/sparkles?size=40" align="left"></a>< **Like These Badges & Icons?** />
 
 Every badge, button, icon, quote card, and tech stack grid on this profile is generated live by **[`svg.xul.is`](https://svg.xul.is)**.<br>
 It's completely free and open to everyone, so feel free to use it in your own READMEs and projects!
@@ -80,9 +72,7 @@ It's completely free and open to everyone, so feel free to use it in your own RE
 <br>
 <br>
 
-<span id="lets-connect"></span>
-
-# < **Let's Connect!** /><a href="#lets-connect"><img src="https://svg.xul.is/icon/handshake?size=40" align="left"></a>
+# <a id="lets-connect" href="#lets-connect"><img src="https://svg.xul.is/icon/handshake?size=40" align="left"></a>< **Let's Connect!** />
 
 You're welcome to explore my repositories, and don't hesitate to reach out<br>
 for questions or just a friendly chat about coding and designing!
