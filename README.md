@@ -39,9 +39,9 @@ modern design; hobby photographer and short film creator<br>
 -   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&numsp;Mastering the art of **[Python](https://github.com/xulbux/python)**.
 -   [![](https://svg.xul.is/icon/rocket-launch?size=20)](#svg-api)&numsp;Trying to learn more about `C`, `C#` and `C++`.
 -   [![](https://svg.xul.is/icon/box-isometric-tape?size=20)](#svg-api)&numsp;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&numsp;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/commands)** and optimizing the heck out of them.
+-   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&numsp;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/cli-tools)** and optimizing the heck out of them.
 -   [![](https://svg.xul.is/icon/puzzle-piece?size=20)](#svg-api)&numsp;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
--   [![](https://svg.xul.is/icon/browser?size=20)](#svg-api)&numsp;Crafting **[beautiful websites](https://xulbux.github.io/html-mechanics)** and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Inertia, Vue.js, Laravel, …).
+-   [![](https://svg.xul.is/icon/browser?size=20)](#svg-api)&numsp;Crafting beautiful websites and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Vue.js, Inertia.js, Laravel, …).
 -   [![](https://svg.xul.is/icon/swatchbook?size=20)](#svg-api)&numsp;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
 -   [![](https://svg.xul.is/icon/camera-rotate?size=20)](#svg-api)&numsp;Creating stunning photos and short films and editing them professionally.
 
