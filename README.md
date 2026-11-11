@@ -14,7 +14,6 @@
 
 <br>
 <br>
-<br>
 
 # <a id="about-me" href="#about-me"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>< **About Me** />
 
