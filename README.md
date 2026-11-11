@@ -18,9 +18,8 @@
 
 # <a id="about-me" href="#about-me"><img src="https://svg.xul.is/icon/circle-info?size=40" align="left"></a>< **About Me** />
 
-Love in coding and technical thinking; good eye for colors and<br>
-modern design; hobby photographer and short film creator<br>
-**—&numsp;always creating more cool stuff for you!**
+Architecting clean code & dev tools&emsp13;·&emsp13;Obsessed with color & UI craft&emsp13;·&emsp13;Photographer & short filmmaker<br>
+**—&numsp;turning wild ideas into polished tools & visuals for you!**
 
 <br>
 <br>
