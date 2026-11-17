@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#"><img src="assets/img/xulbux_welcome_banner.webp" width="100%"></a>
-<sub>You can easily create a very similar banner image yourself using <strong><a href="https://xulbux.github.io/banner-maker">Banner Maker</a></strong>.</sub>
+<sub>You can easily create a very similar banner image yourself using <a href="https://xulbux.github.io/banner-maker"><strong>Banner Maker</strong></a>.</sub>
 
 <br>
 <br>
@@ -34,11 +34,11 @@ Architecting clean code & dev tools&emsp13;·&emsp13;Obsessed with color & UI cr
 
 # <a id="current-focus" href="#current-focus"><img src="https://svg.xul.is/icon/crosshairs-simple?size=40" align="left"></a>< **Current Focus** />
 
--   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&numsp;Mastering the art of **[Python](https://github.com/xulbux/python)**.
+-   [![](https://svg.xul.is/icon/snake?size=20)](#svg-api)&numsp;Mastering the art of [**Python**](https://github.com/xulbux/python).
 -   [![](https://svg.xul.is/icon/rocket-launch?size=20)](#svg-api)&numsp;Trying to learn more about `C`, `C#` and `C++`.
--   [![](https://svg.xul.is/icon/box-isometric-tape?size=20)](#svg-api)&numsp;Working on constant updates and improvements for my **[Python library `xulbux`](https://github.com/xulbux/python-lib-xulbux)**.
--   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&numsp;Writing super useful and powerful **[command line tools](https://github.com/xulbux/python/tree/main/cli-tools)** and optimizing the heck out of them.
--   [![](https://svg.xul.is/icon/puzzle-piece?size=20)](#svg-api)&numsp;Making **[VS Code extensions](https://marketplace.visualstudio.com/publishers/xulbux)**, which I, personally, can't live without anymore and use all the time.
+-   [![](https://svg.xul.is/icon/box-isometric-tape?size=20)](#svg-api)&numsp;Working on constant updates and improvements for my [**Python library `xulbux`**](https://github.com/xulbux/python-lib-xulbux).
+-   [![](https://svg.xul.is/icon/square-terminal?size=20)](#svg-api)&numsp;Writing super useful and powerful [**command line tools**](https://github.com/xulbux/python/tree/main/cli-tools) and optimizing the heck out of them.
+-   [![](https://svg.xul.is/icon/puzzle-piece?size=20)](#svg-api)&numsp;Making [**VS Code extensions**](https://marketplace.visualstudio.com/publishers/xulbux), which I, personally, can't live without anymore and use all the time.
 -   [![](https://svg.xul.is/icon/browser?size=20)](#svg-api)&numsp;Crafting beautiful websites and apps with `HTML5` `CSS3` `PHP` `JS` `TS` (+ Vue.js, Inertia.js, Laravel, …).
 -   [![](https://svg.xul.is/icon/swatchbook?size=20)](#svg-api)&numsp;Diving deep into the world of designing (colors, layout, typography, …) for the perfect user experience.
 -   [![](https://svg.xul.is/icon/camera-rotate?size=20)](#svg-api)&numsp;Creating stunning photos and short films and editing them professionally.
@@ -62,10 +62,10 @@ Architecting clean code & dev tools&emsp13;·&emsp13;Obsessed with color & UI cr
 
 # <a id="svg-api" href="#svg-api"><img src="https://svg.xul.is/icon/sparkles?size=40" align="left"></a>< **Like These Badges & Icons?** />
 
-Every badge, button, icon, quote card, and tech stack grid on this profile is generated live by **[`svg.xul.is`](https://svg.xul.is)**.<br>
+Every badge, button, icon, quote card, and tech stack grid on this profile is generated live by [**SVG API**](https://svg.xul.is).<br>
 It's completely free and open to everyone, so feel free to use it in your own READMEs and projects!
 
-[![Explore svg.xul.is](https://svg.xul.is/button/Explore+svg.xul.is?size=lg&icon=none,arrow-right&anim=sheen,none,nudge)](https://svg.xul.is)
+[![Explore svg.xul.is](https://svg.xul.is/button/Explore+SVG+API?size=lg&icon=none,arrow-right&anim=sheen,none,nudge)](https://svg.xul.is)
 
 <br>
 <br>
@@ -87,7 +87,7 @@ for questions or just a friendly chat about coding and designing!
 
 <div align="center">
 
-From **[XulbuX](https://xulbux.com)**<br>
+From [**XulbuX**](https://xulbux.com)<br>
 **ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧**
 
 <br>
