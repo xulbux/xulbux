@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#"><img src="assets/img/xulbux_welcome_banner.webp" width="100%"></a>
-<sub>You can easily create a very similar banner image yourself using <a href="https://xulbux.github.io/banner-maker"><strong>Banner Maker</strong></a>.</sub>
+<sub>You can easily create a very similar banner image yourself using <a href="https://xulbux.github.io/banner-maker"><b>Banner Maker</b></a>.</sub>
 
 <br>
 <br>
